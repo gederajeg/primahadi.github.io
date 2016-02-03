@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://primahadi.github.io
+title: Data visualisation
+email: primahadiwijaya@gmail.com
+author: Primahadi Wijaya
+description: My awesome new site
+paginate: 3
+google_analytics: 
